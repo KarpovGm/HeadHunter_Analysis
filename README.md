@@ -8,6 +8,8 @@
 [5. Результат](https://github.com/KarpovGm/.../README.md#Результат)    
 [6. Выводы](https://github.com/KarpovGm/.../README.md#Выводы) 
 
+Ссылка на GoogleDrive(https://drive.google.com/drive/folders/1PJdCYux3V6fBtb0siWRP9MGOkKbPRzH8?usp=sharing)
+
 ### Описание проекта    
 Первый Data-Science проект. Цель: решить бизнес-задачу, которая заключается в анализе вакансий из данных компании HeadHunter.
 

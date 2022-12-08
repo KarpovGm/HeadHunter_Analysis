@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Dataset
+hh_data.csv
+ExchangeRates.csv
+
 # Distribution / packaging
 .Python
 build/

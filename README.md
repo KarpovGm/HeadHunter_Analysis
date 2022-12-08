@@ -1,12 +1,12 @@
 # Skillfactory Проект-1: Анализ вакансий Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/KarpovGm/Описание-проекта/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/KarpovGm/.../README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/.../README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/KarpovGm/.../README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/KarpovGm/.../README.md#Результат)    
-[6. Выводы](https://github.com/KarpovGm/.../README.md#Выводы) 
+[1. Описание проекта](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#какой-кейс-решаемhttps://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#результаты)    
+[6. Выводы](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#выводы) 
 
 Ссылка на GoogleDrive(https://drive.google.com/drive/folders/1PJdCYux3V6fBtb0siWRP9MGOkKbPRzH8?usp=sharing)
 
@@ -28,7 +28,7 @@
 Данные представляют собой базу резюме выгруженную с сайта поиска вакансий hh.ru (headhunter).
 В базе собраны такие данные о соискателях как: Пол, возраст, желаемая ЗП, Город проживания, опыт работы, желаемый график работы, Последнее/нынешнее место работы, Последняя/нынешняя должность, уровень Образования, желаемый тип занятости, информация о наличии автомобиля и желание (или наоборот, нежелание) переехать.
   
-:arrow_up:[к оглавлению](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#оглавление)
 
 
 ### Этапы работы над проектом  
@@ -40,19 +40,19 @@
 
 Все эти этапы проработаны в JypiterNotebook.
 
-:arrow_up:[к оглавлению](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#оглавление)
 
 
 ### Результаты:  
 После проведения преобразований данных и построения графиков для разведовательного анализа, компания будет иметь возможность построить модель машинного обучения, что и требовалось.
 
-:arrow_up:[к оглавлению](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#оглавление)
 
 
 ### Выводы:  
 Первый настоящий Data-Science проект завершен, я сталкивался, конечно, с немалым количеством трудностей, но смог решить все поставленные задачи. Я углубился в тему и чувствую, что хорошо усвоил материал, пройденный на курсе до проекта.
 
-:arrow_up:[к оглавлению](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/HeadHunter_Analysis/blob/main/README.md#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами

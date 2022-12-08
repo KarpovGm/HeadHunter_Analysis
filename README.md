@@ -1,7 +1,7 @@
 # Skillfactory Проект-1: Анализ вакансий Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/KarpovGm/.../README.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/KarpovGm/Описание-проекта/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/KarpovGm/.../README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/.../README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/KarpovGm/.../README.md#Этапы-работы-над-проектом)  
